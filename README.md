@@ -14,7 +14,7 @@
 ##
 <div align="center">
   <a href="https://github.com/arthurguedees"> 
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arthurguedees&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arthurguedees&layout=compact&langs_count=16&theme=dark" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arthurguedees&show_icons=true&theme=white&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arthurguedees&layout=compact&langs_count=16&theme=white" />
   </a>
 </div>
