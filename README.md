@@ -1,18 +1,20 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Sou+Arthur+Guedes!;" />
 </h1>
-<h3>Desenvolvedor Java-End </h3>
-<!--
-**arthurguedees/arthurguedees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Desenvolvedor Python-End </h3>
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📖 Eu estou estando sobre Desenvlvimento de Sistemas
+
+👨‍💻 Eu estou programando em Python
+
+📨 meu mail: arthuguedees@gmail.com
+
+##
+<div align="center">
+  <a href="https://github.com/arthurguedees"> 
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arthurguedees&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arthurguedees&layout=compact&langs_count=16&theme=dark" />
+  </a>
+</div>
