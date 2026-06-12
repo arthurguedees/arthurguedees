@@ -22,10 +22,11 @@
 ##
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Arthur-Vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg">
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
   <img align="center" alt="Arthur-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg">
   <img align="center" alt="Arthur-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg">
-  <img align="center" alt="Arthur-NJ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg /">
+  <img align="center" alt="Arthur-NJ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg">
   <img align="center" alt="Arthur-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg">
   <img align="center" alt="Arthur-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg">
   <img align="center" alt="Arthur-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg">
